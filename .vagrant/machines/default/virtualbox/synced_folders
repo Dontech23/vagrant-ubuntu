@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Adones/curso-vagrant/vagrant-ubuntu","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"D:/Adones/curso-vagrant/vagrant-ubuntu/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Adones/curso-vagrant/vagrant-ubuntu","disabled":false,"__vagrantfile":true}}}
